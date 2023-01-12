@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "yjuyu",
+      "email": "dfdf@ru",
+      "children": false,
+      "permission": false,
+      "id": 1,
+      "permissions": true
+    },
+    {
+      "name": "Vika",
+      "email": "vikimiki@mail.ru",
+      "children": true,
+      "permission": false,
+      "id": 2,
+      "permissions": true
+    }
+  ]
+}
